@@ -1,3 +1,5 @@
 Puma
 Lion
 Leopar
+elephant
+gorilla
